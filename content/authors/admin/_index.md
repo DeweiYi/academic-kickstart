@@ -74,7 +74,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Prospective PhD students and academic visitors interested in Hybrid intelligent Systems and Robotics, Applied Machine Learning, Intelligent Vehicles, Advanced Driver Assistance Systems (ADAS), Personalised Systems, Vision-based Semantic Understanding, Remote Sensing, Precision agriculture, etc. are encouraged to contact me by email with your full CV. You will receive both high-level and in-depth technical guidance for high-quality research including prestigious journal publications.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prospective PhD students and academic visitors interested in Hybrid intelligent Systems and Robotics, Applied Machine Learning, Intelligent Vehicles, Advanced Driver Assistance Systems (ADAS), Personalised Systems, Vision-based Semantic Understanding, Remote Sensing, Precision agriculture, etc. are encouraged to contact me by email with your full CV. You will receive both high-level and in-depth technical guidance for high-quality research including prestigious journal publications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is now a UK Lecturer (tenure track assistant professor equivalently) in Machine Learning, School of NCS, at University of Aberdeen (UoA), U.K. He received a PhD degree in the Department of Aeronautical and Automotive Engineering, under the supervision of Prof. Wen-Hua Chen (EPSRC Established Career Fellow, IEEE/IET/FIMechE Fellow), Loughborough University, U.K. in 2018. He was awarded School Research Student Development Fund in 2017; From Jul/2019 to Jan/2020, Dr Yi worked as a research fellow of Warwick Manufacturing Group at University of Warwick.
