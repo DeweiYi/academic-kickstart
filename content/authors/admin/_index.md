@@ -21,9 +21,6 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 - Hybrid Intelligent Systems and Robotics
 - Applied Machine Learning
 - Generalised AI
@@ -35,15 +32,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Smart Vehicles
+    institution: Loughborough University
+    year: 2018
+  - course: MSc in Internet Computing and Network Security
+    institution: Loughborough University
+    year: 2015
+  - course: BEng in Software Engineering
+    institution: Zhejiang University of Science and Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
