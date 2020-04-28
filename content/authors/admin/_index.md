@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dewei Yi
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Machine Learning
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: University of Aberdeen
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
