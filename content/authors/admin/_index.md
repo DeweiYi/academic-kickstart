@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dewei Yi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,14 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
+- Hybrid Intelligent Systems and Robotics
+- Applied Machine Learning
+- Generalised AI
+- Intelligent Vehicles
+- Personalised Advanced Driver Assistance Systems (ADAS)
+- Vision-based Semantic Understanding
+- Remote Sensing
+- Precision Agriculture
 
 education:
   courses:
