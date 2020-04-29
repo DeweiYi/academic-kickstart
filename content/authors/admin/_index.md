@@ -14,7 +14,7 @@ role: Lecturer in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Aberdeen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=xUjxM5EAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
